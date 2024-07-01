@@ -1,0 +1,13 @@
+citHeader("To cite {LSEbootLS} package in publications use:")
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "LSEbootLS: Bootstrap Methods for Regression Models with Locally Stationary Errors",
+  author   = c(
+    person("Guillermo", "Ferreira"),
+    person("Nicolás", "Loyola"),
+    person("Joel", "Muñoz")
+  ),
+  year     = 2024,
+  url      = "https://github.com/Nicolas-UDEC/LSEbootLS"
+)
